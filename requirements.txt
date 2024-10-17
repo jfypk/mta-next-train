@@ -1,5 +1,7 @@
+fuzzywuzzy
 requests
 pytz
+python-Levenshtein
 protobuf
 gtfs-realtime-bindings
 pendulum==2.0.5
