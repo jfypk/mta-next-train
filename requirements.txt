@@ -1,0 +1,7 @@
+requests
+pytz
+protobuf
+gtfs-realtime-bindings
+pendulum==2.0.5
+pytest==5.2.2
+xmltodict==0.12.0
