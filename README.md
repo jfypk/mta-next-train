@@ -2,6 +2,8 @@
 
 This directory contains a set of scripts designed to interact with MTA data feeds, parse XML files, and provide real-time train information. The scripts are written in Python and utilize various libraries to fetch, parse, and display data.
 
+DOES NOT SUPPORT STATEN ISLAND RAILWAY
+
 ## Files
 
 - **station_parser.py**: This script is responsible for parsing XML files to extract GTFS stop IDs and daytime routes for specified stop names. It provides functionality to list all stop names and retrieve detailed information for a selected stop.
